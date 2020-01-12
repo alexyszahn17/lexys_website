@@ -1,1 +1,24 @@
-.
+./README.md
+./about.html
+./contact.html
+./index.html
+./index.md
+./products.html
+./style.CSS
+./images_for_website/allcactus.png
+./images_for_website/babycactus.png
+./images_for_website/bg1.jpg
+./images_for_website/bg2.jpg
+./images_for_website/bg3.jpg
+./images_for_website/cac.html
+./images_for_website/header1.png
+./images_for_website/header2.png
+./images_for_website/header3.png
+./images_for_website/iloveyou.png
+./images_for_website/logo ccc.png
+./images_for_website/logo.png
+./images_for_website/products.png
+./images_for_website/realheader1..png
+./images_for_website/realheader2.png
+./images_for_website/rh3.png
+./images_for_website/valentine.png
