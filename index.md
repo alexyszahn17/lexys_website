@@ -4,7 +4,7 @@
 ./index.html
 ./index.md
 ./products.html
-./style.CSS
+./style.css
 ./images_for_website/allcactus.png
 ./images_for_website/babycactus.png
 ./images_for_website/bg1.jpg
