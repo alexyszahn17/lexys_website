@@ -10,7 +10,6 @@
 ./images_for_website/bg1.jpg
 ./images_for_website/bg2.jpg
 ./images_for_website/bg3.jpg
-./images_for_website/cac.html
 ./images_for_website/header1.png
 ./images_for_website/header2.png
 ./images_for_website/header3.png
